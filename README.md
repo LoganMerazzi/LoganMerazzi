@@ -15,8 +15,10 @@
 
 ## Some stats:
 ![LoganMerazzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganMerazzi&show_icons=true)
+
 ## Currently Working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=bootcamp-eng-dados-cloud-igti-mod1-exercicios)](https://github.com/LoganMerazzi/bootcamp-eng-dados-cloud-igti-mod1-exercicios)
+
 ## Some past (but meaningfull) projects
 If you got here looking for some **SQL Server scripts**, that's where you want to go:
 
