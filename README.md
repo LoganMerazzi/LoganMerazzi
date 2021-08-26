@@ -13,6 +13,15 @@
 [<img align="left" alt="Twitter" width="32" src="https://user-images.githubusercontent.com/13962747/130901993-e289f492-5197-4985-a128-f1f2d9b39110.png" />]( http://blog.merazzi.com.br)
 <br />
 
+## Some stats:
+![LoganMerazzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganMerazzi&show_icons=true)
+## Currently Working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=bootcamp-eng-dados-cloud-igti)](https://github.com/LoganMerazzi/bootcamp-eng-dados-cloud-igti)
+## Some past (but meaningfull) projects
+If you got here looking for some SQL Server scripts, that's where you want to go:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=SQLServerScripts)](https://github.com/LoganMerazzi/SQLServerScripts)
+A past Project I am really proud of, thanks to the awesome people @ RocketSeat!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=Happy-Discovery-NLW)](https://github.com/LoganMerazzi/Happy-Discovery-NLW)
 
 <!--
 **LoganMerazzi/LoganMerazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
