@@ -28,7 +28,7 @@ A past Project I am really proud of, thanks to the awesome people @ **RocketSeat
 [<img align="left" alt="Twitter" width="32" src="https://user-images.githubusercontent.com/13962747/130901993-e289f492-5197-4985-a128-f1f2d9b39110.png" />]( http://blog.merazzi.com.br)
 <br />
 
-
+Contributions are welcome! <3
 <!--
 **LoganMerazzi/LoganMerazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
