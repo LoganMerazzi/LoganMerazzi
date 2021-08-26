@@ -18,9 +18,12 @@
 ## Currently Working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=bootcamp-eng-dados-cloud-igti)](https://github.com/LoganMerazzi/bootcamp-eng-dados-cloud-igti)
 ## Some past (but meaningfull) projects
-If you got here looking for some SQL Server scripts, that's where you want to go:
+If you got here looking for some **SQL Server scripts**, that's where you want to go:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=SQLServerScripts)](https://github.com/LoganMerazzi/SQLServerScripts)
-A past Project I am really proud of, thanks to the awesome people @ RocketSeat!
+
+A past Project I am really proud of, thanks to the awesome people @ **RocketSeat**!
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LoganMerazzi&repo=Happy-Discovery-NLW)](https://github.com/LoganMerazzi/Happy-Discovery-NLW)
 
 <!--
