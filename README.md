@@ -1,7 +1,7 @@
 ## Hi all 🖖
 
 ### An Intro...
-- Data Engineer for Dataside
+- Data Engineer @ Dataside
 - 10+ yrs as SQL Server DBA
 - An avid learner (I'm studying more than I can handle, but that's the point, don't you think? 😬)
 - Trying to learn Russian (yeah, yeah, I know...) in the meantime
